@@ -12,8 +12,11 @@ How to use?
 
 Options:
 
--sl, --stdlib         Include the stdlib in the code.
+-sl, --stdlib<br>
+Include the stdlib in the code.
 
--ag, --args           Define the 'main' Function Signature.
+-ag, --args<br>
+Define the 'main' Function Signature.
 
--h, --help            Show this help.\n
+-h, --help<br>
+Show this help.
