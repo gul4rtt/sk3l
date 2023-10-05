@@ -6,7 +6,7 @@ This code is a script that creates a file with the basic structure of a C progra
 
 How to use?
 
-./sk3l <options>
+./sk3l \<options>
 
 Options:
 
